@@ -4,8 +4,8 @@
       "path": "force-di",
       "default": true,
       "package": "reference-force-di",
-      "versionName": "reference-force-di v1.1.0",
-      "versionNumber": "1.1.0.NEXT"
+      "versionName": "reference-force-di v1.2.0",
+      "versionNumber": "1.2.0.NEXT"
     }
   ],
   "namespace": "",
