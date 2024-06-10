@@ -7,7 +7,7 @@ Documentation
 - [General overview of the library features, configuration and use of Injectors](https://andyinthecloud.com/2018/07/15/managing-dependency-injection-within-salesforce/) (blog)
 - [Using the library to aid with Test Driven Development in Apex](https://andyinthecloud.com/2018/07/29/test-driven-development-mocking-and-force-di/) (blog)
 - [Dependency Injection, Flows, and Force DI](https://douglascayers.com/2018/08/05/dependency-injection-flows-and-force-di/) (blog)
-- [Adopting Dependency Injection](https://douglascayers.com/2018/08/29/adopting-dependency-injection/) (webinar)
+- [Dependency Injection, Flows, and Force DI](https://www.youtube.com/watch?v=YzaI5Ddfwkg) (webinar)
 - [Understanding the Value of Dependency Injection in the Lightning Platform](https://www.youtube.com/watch?v=oce2QO-E_3k) (DF18 session)
 
 Project Folders
@@ -39,7 +39,7 @@ Some of these blogs and videos are not necessarily Salesforce-specific but give 
 ### Videos
 
 - [Dependency Injection Overview](https://www.youtube.com/watch?v=IKD2-MAkXyQ&t=0s&index=3&list=PL-oxrNbxQl3-wPOf0t3PT-0JYXiOBwReG) by Anthony Ferrara
-- [Advanced Apex Design Patterns](https://www.youtube.com/watch?v=IKD2-MAkXyQ) by Andy Fawcett
+- [Advanced Apex Design Patterns](https://www.youtube.com/watch?v=BLXp0ZP0cF0) by Andy Fawcett
 - [Writing True Unit Tests Using Dependency Injection and Mocking](https://www.youtube.com/watch?v=hj4538vR6Mg&list=PL-oxrNbxQl3-wPOf0t3PT-0JYXiOBwReG&index=4) by Alex Tennant
 
 ### Blogs
