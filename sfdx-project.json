@@ -1,18 +1,18 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-di",
-            "default": true,
-            "package": "reference-force-di",
-            "versionName": "reference-force-di v1.0.0",
-            "versionNumber": "1.0.0.NEXT"
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "53.0",
-    "name": "reference-force-di",
-    "packageAliases": {
-        "reference-force-di": "0Ho1T000000PAshSAG"
+  "packageDirectories": [
+    {
+      "path": "force-di",
+      "default": true,
+      "package": "reference-force-di",
+      "versionName": "reference-force-di v1.1.0",
+      "versionNumber": "1.1.0.NEXT"
     }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "53.0",
+  "name": "reference-force-di",
+  "packageAliases": {
+    "reference-force-di": "0Ho1T000000PAshSAG"
+  }
 }
